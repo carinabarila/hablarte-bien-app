@@ -22,7 +22,7 @@ const VALORES: Valor[] = [
   { nombre: "Atención plena", descripcion: "Estar abierta, comprometida y curiosa con el presente.",      categoria: "presencia" },
   { nombre: "Apertura",       descripcion: "Abrirme a nuevas experiencias, ideas y opciones.",            categoria: "presencia" },
   { nombre: "Flexibilidad",   descripcion: "Ajustarme con suavidad a lo que va cambiando.",               categoria: "presencia" },
-  { nombre: "Salud",          descripcion: "Cuidar mi cuerpo y mi bienestar psíquico.",                   categoria: "presencia" },
+  { nombre: "Saludable",      descripcion: "Elegir hábitos y acciones que cuiden mi cuerpo y mi bienestar.", categoria: "accion" },
   { nombre: "Paz interior",   descripcion: "Cultivar serenidad y equilibrio interno.",                    categoria: "presencia" },
   // Ramas — Conexión con Otros
   { nombre: "Amor",           descripcion: "Actuar con amor o afecto hacia mí y los demás.",              categoria: "conexion" },
